@@ -22,6 +22,7 @@
 		C9B73E2A22A6F8220033E7A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9B73E2D22A6F8220033E7A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9B73E2F22A6F8220033E7A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9B73E3522A70D6C0033E7A9 /* CenterLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CenterLocation.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				C9B73E2322A6F8220033E7A9 /* AppDelegate.swift */,
 				C9B73E2522A6F8220033E7A9 /* ViewController.swift */,
+				C9B73E3522A70D6C0033E7A9 /* CenterLocation.gpx */,
 				C9B73E2722A6F8220033E7A9 /* Main.storyboard */,
 				C9B73E2A22A6F8220033E7A9 /* Assets.xcassets */,
 				C9B73E2C22A6F8220033E7A9 /* LaunchScreen.storyboard */,
